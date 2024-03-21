@@ -20,3 +20,4 @@
 9. Select `New repository secrets`.
 10. Enter `NEOCITIES_API_KEY` in Name and API Key in Value.
 11. Commit to a GitHub project: `git push`
+adding this line to check if deploy will work
